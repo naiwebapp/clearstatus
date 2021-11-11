@@ -13,6 +13,9 @@ params:
       link: https://support.example.com/
     - name: Manual update
       description: This is a new entry for testing
+    - name: Nai's Project
+      description: Testing of adding a new system
+      link: http://www.jw.org
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
