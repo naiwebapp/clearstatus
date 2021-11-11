@@ -4,7 +4,7 @@ title: Connectivity failure- Nai Example
 draft: false
 
 # Full date: 2019-03-29 17:26:09
-date: 2019-03-30 20:03:00
+date: 2021-11-11 20:03:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
 status: "resolved"
@@ -74,7 +74,7 @@ section: issue
 ## Enter below issue description and subsequent updates if any
 ---
 
-Both our website and customer support area cannot be reached at the moment. We are investigating the matter.
+This is our first attempt at adding Issues on this Status Page.
 \
 **Issue identified:** Our hosting company has informed us of a failure in the datacenter network equipment. They are working on it and expect a quick resolution.  {{< track "2019-03-30 20:08:19" >}}
 \
