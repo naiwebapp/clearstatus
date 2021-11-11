@@ -11,6 +11,8 @@ params:
     - name: Helpdesk
       description: Our company customer support site
       link: https://support.example.com/
+    - name: Manual update
+      description: This is a new entry for testing
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
