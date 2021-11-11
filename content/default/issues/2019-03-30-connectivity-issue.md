@@ -2,7 +2,7 @@
 draft: false
 section: issue
 title: Connectivity failure
-date: 2019-03-30 20:03:00
+date: 2019-04-04T12:03:00.000Z
 status: scheduled
 pinned: null
 current_severity: down
@@ -10,8 +10,8 @@ max_severity: down
 duration: null
 resolved_on: 2019-03-30 20:45:19
 affected:
-  - Site
   - Helpdesk
+  - Website
 twitterFeed: null
 enableComments: true
 ---
