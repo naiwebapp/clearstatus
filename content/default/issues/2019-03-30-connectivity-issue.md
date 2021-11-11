@@ -5,7 +5,7 @@ title: Connectivity failure
 date: 2019-03-30 20:03:00
 status: scheduled
 pinned: null
-current_severity: ok
+current_severity: down
 max_severity: down
 duration: null
 resolved_on: 2019-03-30 20:45:19
