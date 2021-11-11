@@ -2,16 +2,16 @@
 draft: false
 section: issue
 title: Connectivity failure- Nai Example
-date: 2021-11-11 20:03:00
-status: resolved
+date: 2021-11-11T06:22:42.888Z
+status: in_progress
 pinned: null
-current_severity: ok
+current_severity: down
 max_severity: down
 duration: null
-resolved_on: 2022-01-27T12:45:19.000Z
+resolved_on: 2021-11-11T06:22:55.706Z
 affected:
-  - Site
   - Helpdesk
+  - Website
 twitterFeed: null
 enableComments: true
 ---
