@@ -1,7 +1,7 @@
 ---
 draft: false
 section: issue
-title: Connectivity failure- Nai Example
+title: Nai Example
 date: 2021-11-11T06:22:42.888Z
 status: in_progress
 pinned: null
