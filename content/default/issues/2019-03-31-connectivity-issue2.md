@@ -5,8 +5,8 @@ title: Connectivity failure- Nai Example
 date: 2021-11-11T06:22:42.888Z
 status: in_progress
 pinned: null
-current_severity: down
-max_severity: down
+current_severity: ok
+max_severity: ok
 duration: null
 resolved_on: 2021-11-11T06:22:55.706Z
 affected:
